@@ -48,3 +48,7 @@ jspm_packages
 /config/master.key
 *.key
 *.cert
+
+# Ignore cert and key files
+/devise_lab_localhost.crt
+/devise_lab_localhost.key
